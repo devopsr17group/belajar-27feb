@@ -1,7 +1,0 @@
-Menyimpan semua report yang ada di dalam team MIS
-
-Project :
-- mis dashboard (progress)
-- zoom (done)
-- bandwidth management (cancel)
-- consolidation for finance
