@@ -1,1 +1,6 @@
-Akan menyimpan semua report yang ada di dalam team MIS
+Menyimpan semua report yang ada di dalam team MIS
+
+List Report Ticket:
+
+- membutuhkan status ticket
+- membutuhkan prioority ticket
