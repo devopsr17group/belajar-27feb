@@ -1,3 +1,1 @@
-Array.addEventListener('click', function() {
-  console.log('log');
-});
+console.log('log');
